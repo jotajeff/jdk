@@ -15,7 +15,9 @@ public class Pessoa {
         return nome;
     }
 
-    
+    public double getAltura(){
+        return altura;
+    }
     
 }
 
